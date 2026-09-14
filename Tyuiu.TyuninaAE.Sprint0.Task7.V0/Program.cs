@@ -12,13 +12,13 @@ namespace Tyuiu.TyuninaAE.Sprint0.Task7.V0
     {
         static void Main(string[] args)
         {
-            Console.Title = "Спринт #0 | Выполнил: Тюнина А. Е.";
+            Console.Title = "Спринт #0 | Выполнил: Тюнина А. Е. | ИБКСб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #0                                                               *");
             Console.WriteLine("* Тема: Создания итогового решения по спринту                             *");
             Console.WriteLine("* Задание #7                                                              *");
             Console.WriteLine("* Вариант #0                                                              *");
-            Console.WriteLine("* Выполнил: Тюнина Александра Евгеньевна                                  *");
+            Console.WriteLine("* Выполнил: Тюнина Александра Евгеньевна | ИБКСб-26-1                     *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать консольную программу на C#, которая суммирует значения двух    *");
